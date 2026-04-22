@@ -1,16 +1,13 @@
-## Hi there 👋
+# My Repository
 
-<!--
-**gulypost/gulypost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! This is my personal repository.
 
-Here are some ideas to get you started:
+Here I will store my projects, code examples, and learning materials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I am learning programming and improving my skills step by step.
+
+## Projects
+
+More projects will be added soon.
